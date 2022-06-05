@@ -8,7 +8,27 @@ I'm a final year student at NITK, and I am interested in Big data, Machine learn
 
 
 ## 🛠 Skills
-Python, C++, MYSQL, Machine Learning, MATLAB....
+🐍Python
+
+
+💻C++
+
+
+🌐MYSQL
+
+
+🤖Machine Learning
+
+
+🖥MATLAB
+
+
+
+## 🔗 Links
+[![Github repo](https://github.com/Akash54-AS/Akash54-AS/blob/main/GitHub-Mark-Light-32px.png)](https://github.com/Akash54-AS)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashwaitage/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AkashWaitage54)
+
 
 
 # Shell.ai Hackathon Windfarm Layout Optimisation (WFLO) Challenge
@@ -18,11 +38,7 @@ In this hackathon, the challenge is to optimize the placement of Nturb , 50 wind
 - Perimeter Constraint --> All the turbines must be located inside the perimeter of the farm, while maintaining a minimum clearance of 50 meters from the farm boundary.
 - Proximity Constraint --> The distance between any two turbines must be larger than a given security threshold to ensure a longer lifetime of the turbine rotors. This minimum distance between two turbines is called Dmin and needs to be 400 m.
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/Akash54-AS)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashwaitage/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AkashWaitage54)
+![Hackathon](https://github.com/Akash54-AS/Shell.ai-Hackathon-Windfarm-Layout-Optimisation-WFLO-Challenge/blob/master/shell_ai_Hackthon.png)
 
 
 ## Team Members
@@ -37,13 +53,26 @@ In this hackathon, the challenge is to optimize the placement of Nturb , 50 wind
 
 ## Reward
 
-![App Screenshot](https://github.com/Awanit512/Optimization-of-Wind-Farm-Layout-HACKATHON-SHELL.AI/blob/main/shell_ai_Hackthon.png)
+![Reward](https://github.com/Akash54-AS/Shell.ai-Hackathon-Windfarm-Layout-Optimisation-WFLO-Challenge/blob/master/reward.png)
 
 
 ## Competition Result
-## Demo
+- We are glad to state that our Team named as TEAM-7 won the fourth position on Leader Board and First Position under Special University Edition(SPE) from South Zone with the score of 544.70305 .
 
-[Youtube Video]()
+
+![Result](https://github.com/Akash54-AS/Shell.ai-Hackathon-Windfarm-Layout-Optimisation-WFLO-Challenge/blob/master/private_LeaderBoard.png)
+
+## Award
+- Finally we got first rank in the south region and got 50k  price.
+
+
+![Award](https://github.com/Akash54-AS/Shell.ai-Hackathon-Windfarm-Layout-Optimisation-WFLO-Challenge/blob/master/results.png)
+## Pitch Video
+If you are excited to see the videos of our work check the links below :
+
+
+[![Youtube Video](https://github.com/Akash54-AS/Akash54-AS/blob/main/youtube.png)](https://youtu.be/Re0xdlgJrRg)
+
 
 
 ## License
